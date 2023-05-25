@@ -69,7 +69,7 @@
     "web": "expo start --web",
     "eject": "expo eject",
     "run-preview": "npx expo start --no-dev --minify",
-    "dev": "nodemon server.js"
+    "dev": "nodemon Server.js"
   },
   "private": true
 }
